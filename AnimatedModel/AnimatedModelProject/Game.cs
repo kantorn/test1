@@ -35,6 +35,8 @@ namespace AnimatedModelProject
             ScreenLayers screenLayers = WaveServices.ScreenLayers;
             screenLayers.AddScene<MyScene>();
             screenLayers.Apply();
+
+
         }
     }
 }
