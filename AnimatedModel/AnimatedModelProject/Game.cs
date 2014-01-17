@@ -23,9 +23,10 @@ using WaveEngine.Common;
 using WaveEngine.Framework.Services;
 
 #endregion
-//test naja
+//test naja 
 namespace AnimatedModelProject
 {
+	//test naja 15.50
     public class Game : WaveEngine.Framework.Game
     {
         public override void Initialize(IAdapter adapter)
