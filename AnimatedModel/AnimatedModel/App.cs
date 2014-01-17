@@ -9,6 +9,7 @@ using WaveEngine.Framework.Services;
 
 namespace AnimatedModel
 {
+    //test
     public class App : WaveEngine.Adapter.Application
     {
         AnimatedModelProject.Game game;
