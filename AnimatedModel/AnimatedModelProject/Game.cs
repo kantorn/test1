@@ -27,6 +27,7 @@ using WaveEngine.Framework.Services;
 namespace AnimatedModelProject
 {
 	//test naja 15.50
+	//test naja 15.55
     public class Game : WaveEngine.Framework.Game
     {
         public override void Initialize(IAdapter adapter)
