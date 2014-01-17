@@ -23,7 +23,7 @@ using WaveEngine.Common;
 using WaveEngine.Framework.Services;
 
 #endregion
-//test
+//test naja
 namespace AnimatedModelProject
 {
     public class Game : WaveEngine.Framework.Game
