@@ -36,7 +36,7 @@ namespace AnimatedModelProject
             screenLayers.AddScene<MyScene>();
             screenLayers.Apply();
 
-            //testest
+            //testest naja 15.01
         }
     }
 }
