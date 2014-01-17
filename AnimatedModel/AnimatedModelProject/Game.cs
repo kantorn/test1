@@ -23,7 +23,7 @@ using WaveEngine.Common;
 using WaveEngine.Framework.Services;
 
 #endregion
-//test
+
 namespace AnimatedModelProject
 {
     public class Game : WaveEngine.Framework.Game
@@ -36,7 +36,7 @@ namespace AnimatedModelProject
             screenLayers.AddScene<MyScene>();
             screenLayers.Apply();
 
-            //test comment 15.05
+            //testest naja 15.01
         }
     }
 }
