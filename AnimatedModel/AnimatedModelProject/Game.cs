@@ -28,6 +28,7 @@ namespace AnimatedModelProject
 {
     public class Game : WaveEngine.Framework.Game
     {
+        //Initial class
         public override void Initialize(IAdapter adapter)
         {
             base.Initialize(adapter);
