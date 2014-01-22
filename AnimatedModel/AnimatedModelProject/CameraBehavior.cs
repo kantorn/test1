@@ -11,7 +11,6 @@ using WaveEngine.Framework.Services;
 
 namespace AnimatedModelProject
 {
-    //Class behavior
     public class CameraBehavior : Behavior
     {
         #region Variables
