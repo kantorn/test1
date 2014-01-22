@@ -26,9 +26,6 @@ using WaveEngine.Framework.Services;
 //test naja 
 namespace AnimatedModelProject
 {
-	//test naja 15.50
-	//test naja 15.55
-	//test naja 15.57
     public class Game : WaveEngine.Framework.Game
     {
         public override void Initialize(IAdapter adapter)
@@ -39,8 +36,6 @@ namespace AnimatedModelProject
             screenLayers.AddScene<MyScene>();
             screenLayers.Apply();
 
-            //test comment 15.05
-            //test comment 15.58
         }
     }
 }
