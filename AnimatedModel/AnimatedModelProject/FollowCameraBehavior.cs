@@ -10,6 +10,7 @@ namespace AnimatedModelProject
 {
     public class FollowCameraBehavior : Behavior
     {
+        //Variables
         #region Variables
         [RequiredComponent]
         public Transform3D transform3D;
