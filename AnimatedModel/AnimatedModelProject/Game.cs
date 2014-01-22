@@ -31,8 +31,10 @@ namespace AnimatedModelProject
         //Initial class
         public override void Initialize(IAdapter adapter)
         {
+            //Initial base classe
             base.Initialize(adapter);
-
+            
+            //Create screen layer
             ScreenLayers screenLayers = WaveServices.ScreenLayers;
             screenLayers.AddScene<MyScene>();
             screenLayers.Apply();
