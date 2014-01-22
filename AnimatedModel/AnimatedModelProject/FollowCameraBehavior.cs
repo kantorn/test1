@@ -8,6 +8,7 @@ using WaveEngine.Framework.Graphics;
 
 namespace AnimatedModelProject
 {
+    //FollowCameraBehavior
     public class FollowCameraBehavior : Behavior
     {
         #region Variables
