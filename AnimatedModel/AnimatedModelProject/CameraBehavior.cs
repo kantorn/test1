@@ -14,6 +14,7 @@ namespace AnimatedModelProject
     //Class behavior
     public class CameraBehavior : Behavior
     {
+        //variable
         #region Variables
         [RequiredComponent]
         public Camera camera;
